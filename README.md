@@ -1,5 +1,5 @@
 
-<div align="left"> <span style="font-size: 3em" align="center"> Hello, I'm Glacier! 💡<img src="https://media.tenor.com/8QTiEfTe1RoAAAAj/niko-oneshot.gif" width="30px""> </span> </div>
+<div align="center"> <h2> Hello, I'm Glacier! 💡<img src="https://media.tenor.com/8QTiEfTe1RoAAAAj/niko-oneshot.gif" width="50px""> </h2> </div>
 
 <a href="https://github.com/niko-banever-tech"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -35,3 +35,4 @@
 
 ![Glaciers's github stats](https://github-readme-stats.vercel.app/api?username=niko-banever-tech&show_icons=true&theme=ambient_gradient&bg_color=0,e74351,4348e6&border_color=ffffff&border_radius=20)
 <img style="padding-left:50px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niko-banever-tech&theme=ambient_gradient&bg_color=0,e74351,4348e6&border_color=ffffff&border_radius=20"/>
+
